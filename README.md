@@ -9,7 +9,7 @@
 
 - 🌱 I’m currently learning **java, javascritp , php**
 
-- 💬 Ask me about **java, react , html , Linux**
+- 💬 Ask me about **java, react , html , Linux , Angular**
 
 - 📫 How to reach me **ankitdhonde2015@gmail.com**
 
